@@ -25,3 +25,16 @@ Replace with stuff about the presenter.
 > **Responding to change** over following a plan
 
 <https://agilemanifesto.org/>
+
+# Can Agile work in academia?
+
+> Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+
+<https://agilemanifesto.org/>
+
+Is it?
+
+# git Flow
+
+![](https://srse-git-github-zero2hero.netlify.app/images/ag-github-flow.png)
+
