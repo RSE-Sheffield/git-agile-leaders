@@ -3,18 +3,25 @@
 University of Sheffield RSE Team
 February, 2022
 
-# Slide 1 Title
+# Thanks
 
-Thanks for coming, thanks to the conference organisers, thanks to the RSE team at Sheffield, Paul Richmond in particular.
+Thanks for coming, thanks to the RSE team at Sheffield.
 
-# Slide 2 Title
+# Personal Introduction
 
-![Bob Turner](images/bobicorn.jpg){ height=256px }
+Replace with stuff about the presenter.
 
-Mix of software engineering and research experience.
-
-# Slide 3 Title
+# RSE Team
 
 ![RSE](https://github.com/RSE-Sheffield/RSE-Sheffield.github.io/raw/master/assets/images/logo/rse-logoonly-stroke.png){ height=256px }
 
-13 RSEs, 35 projects / year worth ~£11m total
+~11 RSEs, ~40 projects / year worth ~£11m total
+
+# The Agile Manifesto
+
+> **Individuals and interactions** over processes and tools
+> **Working software** over comprehensive documentation
+> **Customer collaboration** over contract negotiation
+> **Responding to change** over following a plan
+
+<https://agilemanifesto.org/>
