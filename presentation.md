@@ -34,6 +34,17 @@ Replace with stuff about the presenter.
 
 Is it?
 
+# Waterfall
+
+>If you clearly understand the project outcomes from the beginning, Waterfall may be the best fit. Waterfall is a better method when a project must meet strict regulations as it requires deliverables for each phase before proceeding to the next one.
+
+<https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/>
+
+# Agile
+
+>Alternatively, Agile is better suited for teams that plan on moving fast, experimenting with direction and don’t know how the final project will look before they start. Agile is flexible and requires a collaborative and self-motivated team, plus frequent check-ins with business owners and stakeholders about the progress.
+
+<https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/>
 # git Flow
 
 ![](https://srse-git-github-zero2hero.netlify.app/images/ag-github-flow.png)
