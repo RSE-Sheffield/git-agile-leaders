@@ -1,7 +1,7 @@
-# Presentation title
+# git, GitHub and Agile for research leaders
 
-Robert Turner, Paul Richmond, University of Sheffield RSE Team
-September, 2021
+University of Sheffield RSE Team
+February, 2022
 
 # Slide 1 Title
 
